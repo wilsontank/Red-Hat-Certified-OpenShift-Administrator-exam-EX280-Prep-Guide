@@ -1,0 +1,1 @@
+# Red-Hat-Certified-OpenShift-Administrator-exam-EX280-Prep-Guide
